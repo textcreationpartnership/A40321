@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning to England and to all that profess themselves Christians, who have the form, but deny the power of godliness, that they sin no more, lest a worse thing come to them. Let this be speedily dispersed. George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40321</idno>
+            <idno type="STC">Wing F1986</idno>
+            <idno type="STC">ESTC R216396</idno>
+            <idno type="EEBO-CITATION">99828127</idno>
+            <idno type="PROQUEST">99828127</idno>
+            <idno type="VID">32554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32554)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning to England and to all that profess themselves Christians, who have the form, but deny the power of godliness, that they sin no more, lest a worse thing come to them. Let this be speedily dispersed. George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>26 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Christ Church Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32554:1"/>
+            <pb facs="tcp:32554:1" rendition="simple:additions"/>
+            <p>A Warning TO ENGLAND, And to all that profeſs themſelves CHRISTIANS, Who Have the <hi>Form,</hi> but deny the <hi>Power</hi> of Godlineſs, that they Sin No More, leſt a worſe Thing come to them.</p>
+            <p>Let this be ſpeedily diſperſed.</p>
+            <p>George Fox.</p>
+            <q>
+               <p>As ye have received Chriſt Jeſus, the Lord, ſo walk in him, <bibl>
+                     <hi>Coloſ. 2.6.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>For, even our God is a Conſuming Fire, <bibl>
+                     <hi>Heb. 12.29.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>Printed in the Year 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32554:2"/>
+            <pb n="3" facs="tcp:32554:2"/>
+            <head>A WARNING TO <hi>ENGLAND,</hi> &amp;c.</head>
+            <p>This is to all ye People that are call'd <hi>Chriſtians,</hi> that walk not in the Spirit of Chriſt, to conſider your Lives and Converſations, and for to ſee, how unlike you are unto Chriſt and his Apoſtles, which all True <hi>Chriſtians</hi> are to walk as he walked, and as the Apoſtles and the true <hi>Chriſtians</hi> in the Primitive Times did; and your Converſati<g ref="char:EOLhyphen"/>ons ſhould be in Heaven, as theirs was.</p>
+            <p>AND now, all you that do not walk as you have the Apoſtles for Ex<g ref="char:EOLhyphen"/>amples, and to walk as Chriſt
+<pb n="4" facs="tcp:32554:3"/>walked, as in 1 <hi>John</hi> 2.6. If the Lord God Almighty, who is the Creator of all, and the Lord Jeſus Chriſt, by whom all things were made, ſhou d deal with you as you deal with him, who ſpend his Creatures upon your Luſts, and devour them and conſume them immoderately; I ſay, If the Lord God, that created all, and gives the Increaſe of all, and upholds all by his Word and Pow<g ref="char:EOLhyphen"/>er <hi>(For, the Earth is the Lord's, and the Fulneſs thereof.)</hi> I ſay, If the Lord God ſhould reſtrain the Earth from Encreaſing, and all other Creatures which give you Food, for Three or Four Years, what a Condition would you be in, that deſtroy them ſo upon your Luſts? If the Lord God ſhould bring a FAMINE, and ſtop (I ſay) the Earth from yielding its Increaſe to you, that ſo deſtroy and conſume his Creatures upon your Un<g ref="char:EOLhyphen"/>godly Devouring Luſts, Waſteing ſo much avinly, which would nouriſh ſo many both in Cloaths and Dyet, as are ready to Famiſh, and Starve for Want? Have not you ſeen how the Lord God hath brought the <hi>Sword</hi> among you? And are not you as Proud and as Vain, without his Fear as you were, though ſo many have been conſumed by Sword? Then did not he bring the <hi>Plague,</hi> and ſwept away many Thouſands thereby, and
+<pb n="5" facs="tcp:32554:3"/>ſcattered you out of your City of <hi>London?</hi> And then after did not he bring the <hi>Fire,</hi> to the Aſtoniſhment of many? And what if the Lord ſhould hinder the Earth from Increa<g ref="char:EOLhyphen"/>ſing, how could you but ſay, <hi>It were Juſt with the Lord ſo to do, and to bring a</hi> Famine <hi>upon you,</hi> ſeeing that you do not Repent, and Amend your Lives, and Fear and Serve him that made you? And all theſe good outward Creatures, which he has given to you, and daily gives in his Mercy, that you might ſerve and fear him, and not to conſume them upon your own Luſts, and has given you Rain and Fruitful Seaſons; now what, if the Lord ſhould Reſtrain his Hand in thoſe things from you, that do ſo devour them, and con<g ref="char:EOLhyphen"/>ſume them, and waſte them upon your Luſts, Could you ſay any other wiſe, but <hi>The Lord is Juſt in ſo doing?</hi> ſeeing that you a<g ref="char:EOLhyphen"/>mend not your Lives, Wayes, Words and Doings; and are ſuch, that feaſt and are fee<g ref="char:EOLhyphen"/>ding your ſelves without all Fear, as you may ſee in <hi>Jude</hi> 12. and ſo are the Clouds without Water, and Trees without Fruit. So, if God ſhould ſend you Clouds without Water in them, and your Trees without Fruit, remember the Fig-Tree that Chriſt curſed, that did not bear Fruit, and think
+<pb n="6" facs="tcp:32554:4"/>upon your ſelves, &amp; you are all Trees: but ſee what Fruits of Righteouſneſs, of Godlineſs, of Virtue and of Holineſs you bear to God; for, <hi>without Holineſs none ſhall ſee God:</hi> And therefore take heed of promiſing your ſelves Liberty, whilſt your ſelves are Servants of Uncleanneſs and Corruptions, as in 2 <hi>Pet.</hi> 2. And when you Deſtroy, Conſume and De<g ref="char:EOLhyphen"/>vour God's good Creatures upon your Luſts, do you think of God? Don't you feed with<g ref="char:EOLhyphen"/>out any Fear of God? And do not many live after that ſort, as they did that ſaid, <hi>Let us eat and drink, for to morrow we ſhall dye?</hi> as in 1 <hi>Cor.</hi> 15.42. And doth not the Apoſtle ſay, <hi>That every Creature of God is good, &amp; nothing ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ht to be refuſ'd, if it be receiv'd with thankſ<g ref="char:EOLhyphen"/>giving; for God hath created them to be re<g ref="char:EOLhyphen"/>ceived with Thankſgiving; for it is ſanctified by the Word of God and Prayer?</hi> And now when you deſtroy the Creatures upon your Luſts, with Gluttony, Greedineſs and Drun<g ref="char:EOLhyphen"/>kenneſs, you are not in a Capacity then of Praying or giving Thanks, but of Curſing, Swearing, Damning and Murdering, and all other Evils you are ſubject to run into, and then often brings Miſery and many Evils up<g ref="char:EOLhyphen"/>on your ſelves and Families.</p>
+            <p>Tim. 1.4. Now <hi>Every Creature of God is
+<pb n="7" facs="tcp:32554:4"/>good</hi> [Mark] <hi>and nothing ought to be refuſed, if it be received with Thankſgiving; for God created them to be received with Thankſgi<g ref="char:EOLhyphen"/>ving:</hi> And the Thanksgiving muſt be given to him that created them; and therefore you ought to receive no Creature but with Thankſgiving to the Creator, and you ought to give him Thanks that created all to his Glory; and if you do not, you are of them that feed without all Fear of God, your and their Creator. And they that take the Crea<g ref="char:EOLhyphen"/>tures in God's Fear with Thankſgiving, will not deſtroy them, nor conſume them upon their own Luſts, and they are ſenſible of the Goodneſs of the Creatures, and of the Goodneſs of God that gave them: And they that feed without the Fear, and are the Clouds without Water, and the Trees with<g ref="char:EOLhyphen"/>out Fruit, and devour, conſume, deſtroy and waſte the Creatures of God upon their own Luſts, deſtroy their Bodies and Souls, their own Families, Wives and Children, and bring themſelves to Rags and Beggery.</p>
+            <p>And ſuch are not ſenſible of the Good<g ref="char:EOLhyphen"/>neſs of the Creatures, nor the Goodneſs of the Creator; and from ſuch God had no true Thanks, but his Name is Blaſphemed by ſuch daily: And though many may ſay, that <hi>We ſay Grace before Meat and after;</hi>
+               <pb n="8" facs="tcp:32554:5"/>but you ſhould live in Grace, and not turn from the Grace of God into Wantonneſs, and walk deſpightfully againſt the Spirit of Grace; for the true Giving of Thanks to God, is <hi>with the Spirit of Grace and Suppli<g ref="char:EOLhyphen"/>cation,</hi> Zach. 12.10. &amp; Jude 14.</p>
+            <p>So they cannot truly give Thanks to God, that turn the Grace of God into Wantonneſs, and walk deſpightfully againſt the Spirit of Grace; and therefore <hi>Quench not the Spirit,</hi> 1 <hi>Theſſ.</hi> 5.19. And the Lord ſaith, <hi>What haſt thou to do to take my Name into thy Mouth, and hateſt to be reformed?</hi> And <hi>every one that names the Name of Jeſus, is to depart from Iniquity:</hi> elſe, Chriſt will bid ſuch as do not depart from Iniquity, <hi>Depart from him;</hi> this is a ſad Sentence, for the Saviour and Redeemer and Mediator, to bid them <hi>Depart from him ye Workers of Iniquity; for I know ye not:</hi> So, though you may ſay Grace (as you call it) with your Lips; yet if you feed without Fear, and work Iniquity, Chriſt won't own ſuch.</p>
+            <p>And <hi>James</hi> ſaith, <hi>Ye have lived in Plea<g ref="char:EOLhyphen"/>ſures on the Earth, and in Wantonneſs ye have nouriſhed your Hearts, as in a Day of Slaugh<g ref="char:EOLhyphen"/>ter,</hi> and ſo forth: Were not ſuch to <hi>Weep and Howl?</hi> And therefore don't you think this Day won't come upon you, that are
+<pb n="9" facs="tcp:32554:5"/>found in theſe things: Therefore be you Warned in time.</p>
+            <p>And doth not the Apoſtle command you (<hi>Epheſ.</hi> 5.16.) <hi>To redeem the Time; for the Dayes are Evil?</hi> And therefore ſee how you can redeem your Time that is paſt; for does not the Apoſtle tell you what the Fruits of the Fleſh are, and what the Fruits of the Spirit? So ſee what Fruits you bear, and of what ſort.</p>
+            <p>And don't you read in <hi>Rom.</hi> 1. of ſuch, that gave themſelves up to Vile Affections, and were filled with Unrighteouſneſs, For<g ref="char:EOLhyphen"/>nication, Wickedneſs, Covetouſneſs, full of Envy and Murder, Debate and Deceit, ta<g ref="char:EOLhyphen"/>king all things in the Evil Part, Whiſperers, Backbiters, Haters of God, Doers of Wrong, Proud Boaſters, Inventors of Evil Things, Diſobedient to Parents, without Underſtan<g ref="char:EOLhyphen"/>ding, Covenant-Breakers, without Natural Affections, ſuch as never ceaſe from Sin, which Men (though they knew the Law of God, how that they which commit ſuch things are worthy of Death) not only do the ſame, but have Pleaſure in them that do them, <hi>Rom.</hi> 1. And therefore conſider theſe things, all you who are found in theſe Practices, and Amend, leſt God's Wrath and Judgments break forth ſuddenly upon
+<pb n="10" facs="tcp:32554:6"/>you, ere ye be aware. For, do not you know, that <hi>The <g ref="char:V">Ʋ</g>nrighteous ſhall not inherit the Kingdom of God?</hi> Be not deceived, neither Fornicators, nor Adulterers, nor Idolaters, nor Wantons, nor Thieves, nor Covetous, nor Drunkards, nor Extortioners, nor Railers ſhall inherit the Kingdom of God: There<g ref="char:EOLhyphen"/>fore ye muſt forſake all theſe things, if ye expect to inherit the Kingdom of God, as you may ſee in 1 <hi>Cor.</hi> 6.</p>
+            <p>And don't you read of ſome, <hi>that in Words profeſſed God, but in their Works denyed him?</hi> And have not they that have profeſſed them<g ref="char:EOLhyphen"/>ſelves <hi>Chriſtians,</hi> brought a great Diſhonour to <hi>Chriſtianity,</hi> yea, among the very <hi>Turks</hi> and <hi>Heathen,</hi> by their Drunkenneſs, Whore<g ref="char:EOLhyphen"/>doms and Uncleanneſſes, Cozening and Cheating, and Curſing and Swearing, Thefts and Murders; ſo that amongſt the <hi>Turks</hi> it is become a By-word, <hi>What! Doſt thou think I am a Chriſtian?</hi> Therefore, oh! that that Holy Name <hi>(whoſe Name is above every Name)</hi> by which you are called, that you ſhould walk ſo unworthy of it, as to cauſe his Holy Name to be Blaſphemed! and knowing, there is no Salvation by any other Name under Heaven, but by the Name of Jeſus, Oh! therefore, that every one that names his Name, would Depart from Iniqui<g ref="char:EOLhyphen"/>ty,
+<pb n="11" facs="tcp:32554:6"/>and might walk as he walked: And let your Moderation (ye that be called <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi>) be known unto all men; for the Lord is at hand, and ſees all things, and will ren<g ref="char:EOLhyphen"/>der unto every Man according to his Works: And don't you know, ye muſt give an Ac<g ref="char:EOLhyphen"/>count for every Idle Word? and therefore, ought they not to be Gracious, and ſeaſon'd with Grace?</p>
+            <p>And whether therefore <hi>you Eat or Drink, or whatſoever you do, do all to the Glory of God,</hi> 1 Cor. 10.31. Now there is no Wa<g ref="char:EOLhyphen"/>ſter, Drunkard, Glutton, that can Eat and Drink to the Glory of God; but to the Diſ<g ref="char:EOLhyphen"/>honouring God, Devouring and Deſtroy<g ref="char:EOLhyphen"/>ing his Creatures, and Conſuming them up<g ref="char:EOLhyphen"/>on their Luſts, and feeding themſelves with<g ref="char:EOLhyphen"/>out the Fear of God: And if all <hi>Chriſtians</hi> did mind this, <hi>Whether they Eat or Drink, that they do it to the Praiſe and Glory of God,</hi> there would be no Drunkard, no Deſtroyer, no Devourer, nor Waſter of God's Crea<g ref="char:EOLhyphen"/>tures found in <hi>Chriſtendom.</hi>
+            </p>
+            <p>And likewiſe, <hi>Whatſoever you do, to do it to the Praiſe and Glory of God.</hi> [Mark] <hi>What<g ref="char:EOLhyphen"/>ſoever you do:</hi> In this no <hi>Chriſtian</hi> would Diſ<g ref="char:EOLhyphen"/>honour God; in this they would alwayes have the Lord before their Eyes, and his Fear placed in their Hearts.</p>
+            <pb n="12" facs="tcp:32554:7"/>
+            <p>And therefore, whether we live, we ſhould live unto the Lord, and whether we dye, we ſhould dye unto the Lord: So all that are true <hi>Chriſtians</hi> do live &amp; dye unto the Lord; But <hi>they that live in Pleaſures, are dead whilſt they live,</hi> as in 1 <hi>Tim.</hi> 5.</p>
+            <p>And conſider ye what the Prophet <hi>Hoſea</hi> ſaith to the profeſſing <hi>Jews,</hi> that did not live according to the Law of God, nor the Pro<g ref="char:EOLhyphen"/>phets; and may not the ſame be ſaid unto you, that profeſs your ſelves <hi>Chriſtians,</hi> but live not according to the Goſpel? <hi>Saith the Lord, I gave them Corn, Wine and Oyl, and multitude of Silver and Gold, &amp;c. And therefore I will return, ſaith the Lord, and take away my Corn in the Time thereof, and my Wine in the Seaſon thereof; and I will re<g ref="char:EOLhyphen"/>cover my Wool and my Flax, given to cover their Shame.</hi>
+            </p>
+            <p>And therefore conſider this, ye <hi>Chriſtians, What</hi> (I ſay) <hi>if the Lord ſhould ſtop the Earth from Increaſing</hi> (for the Lord has given you Corn, Wine and Oyl, Silver and Gold, Wool and Flax, which you conſume and deſtroy upon your Luſts, <hi>the Luſt of the Eye, the Luſt of the Fleſh, and the Pride of Life, which is not of the Father) ſo that you ſhould not have ſo much Corn as to feed you, and
+<pb n="13" facs="tcp:32554:7"/>as much Flax &amp; Wool as to cover your Shame,</hi> think you, would it not be Juſt with the Lord ſo to do? Let the Witneſs of God in your Conſciences, and your daily Practice, and the Scriptures anſwer and teſtifie a<g ref="char:EOLhyphen"/>gainſt you.</p>
+            <p>For truly, when I was in <hi>Lancaſter</hi>-Pri<g ref="char:EOLhyphen"/>ſon, I looked out of the Bars of the Window in the Tower, and ſaw <hi>the Angel of the Lord God, with his Drawn Gliſtering</hi> SWORD, <hi>ſhaking it over this Nation, to Execute God's Vengeance, and the Court was all as a Fla<g ref="char:EOLhyphen"/>ming Fire;</hi> And this I ſaw before the begin<g ref="char:EOLhyphen"/>ning of the <hi>Dutch War,</hi> before the <hi>Plague,</hi> and before the <hi>Fire:</hi> And now I ſay again, If God Almighty, that created all for his Glory, and gives the Increaſe of all <hi>(For, the Earth is the Lord's, and the Fulneſs there<g ref="char:EOLhyphen"/>of)</hi> and, <hi>Whether you Eat or Drink, or what<g ref="char:EOLhyphen"/>ſoever you do, you ſhould do it to the Praiſe and Glory of God</hi>) and now, if you do not, but con<g ref="char:EOLhyphen"/>ſume the Creatures of God upon your own Luſts, and with Gluttony and Drunkenneſs waſte and deſtroy them, and live Wantonly, Wickedly and in Pleaſures on the Earth, which is a Mark that ſuch are Dead from God and Chriſt whilſt they live: Now, I ſay, if God Almighty, the Creator, ſhould ſtop the Earth from Increaſing with Cattel and o<g ref="char:EOLhyphen"/>ther
+<pb n="14" facs="tcp:32554:8"/>Creatures, and bring a FAMINE upon you, how could any but ſay, <hi>The Lord is Juſt in ſo doing?</hi> For, look over <hi>Chriſten<g ref="char:EOLhyphen"/>dom,</hi> and ſee what Voluptuouſneſs, Drun<g ref="char:EOLhyphen"/>kenneſs, Exceſs, Rioting, Debauchery, Oaths, Curſing and Swearing, that makes the Land to mourn! Do you think there was the-like in <hi>Sodom</hi> and <hi>Gomorrah,</hi> whom God fet forth as Examples of his Wrath, and ſuch as ſuffered the Vengeance of Eternal Fire, who followed Strange Fleſh? Therefore Dread all ye that defile your ſelves and fol<g ref="char:EOLhyphen"/>low after Strange Fleſh; ſee <hi>Jude.</hi> Though you may think ye ſit as Queens, and glorifie your ſelves in your Pleaſures, and may ſay in your Hearts, <hi>Ye ſhall ſee no Sorrow;</hi> but alas! Wo and Torment will follow: And therefore, before it be too late, Repent, and conſider theſe things.</p>
+            <p>And remember <hi>Eſau,</hi> that prophane Per<g ref="char:EOLhyphen"/>ſon, which for a Morſel of Meat ſold his Birth-right, and afterwards he would have in<g ref="char:EOLhyphen"/>herited the Bleſſing, but he was rejected; for he found no place of Repentance, though he ſought it with Tears: And therefore while ye have Time, Repent; for, know ye not, that all that forget God, and do wick<g ref="char:EOLhyphen"/>edly, he will turn into Hell? And therefore forſake your Wickedneſs.</p>
+            <pb n="15" facs="tcp:32554:8"/>
+            <p>And do not you read, That the Lord Jeſus <hi>will ſhew himſelf from Heaven with h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s migh<g ref="char:EOLhyphen"/>ty Angels in Flaming Fire, rendring Veng<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ance unto them that do not know God, and which obey not the Goſpel of our Lord Jeſus Chriſt</hi> [mark, that do not obey the Goſpel of our Lord Jeſus Chriſt; [People may Talk of it, but not Obey it] <hi>who ſhall be pu<g ref="char:EOLhyphen"/>niſhed with Everlaſting Perdition from the Preſence of the Lord and from the Glory of his Power.</hi> Mark this Sentence, and take it to Heart, as in 2 <hi>Theſ.</hi> 1.7, 8. And ſee the ſad Sentence upon the Wicked in <hi>Mat.</hi> 24.51. and chap. 25.41.</p>
+            <p>And was it not in all Ages the Sins of the People, and their committing Evil and Wickedneſs in the Sight of the Lord, that brought the <hi>Wrath,</hi> and the <hi>Plagues,</hi> and the <hi>Sword,</hi> and the <hi>Famine</hi> upon them, as you may read from <hi>Moſes,</hi> in the Time of the Law, to the Dayes of Chriſt, and after Chriſt? And is it not the ſame that brings it upon them called <hi>Chriſtians</hi> now, that make a Profeſſion of the New Teſtament, as the <hi>Jews</hi> did of the Old, and live not ac<g ref="char:EOLhyphen"/>cording to it? Oh <hi>England!</hi> conſider theſe things; oh <hi>Chriſtendom</hi> (ſo called) conſider theſe things; and walk honeſtly, as becomes the Goſpel, and not in Gluttonny and Drun<g ref="char:EOLhyphen"/>kenneſs,
+<pb n="16" facs="tcp:32554:9"/>in Chambering and Wantonneſs neither in Strife nor Envy, but put on the Lord Jeſus Chriſt, and take no Thought for the Fleſh, to fulfil the Luſts thereof, <hi>Rom.</hi> 13.13.</p>
+            <p>
+               <hi>But unto them that are Contentious, and diſobey the Truth, though they may talk of it, ſhall be Indignation and Wrath, Tribulation and Anguiſh will be upon the Soul of every man that doth Evil:</hi> And therefore take heed, leſt (after the Hardneſs of your Hearts, and your Impenitency) you heap unto your ſelves <hi>
+                  <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h againſt the Day of Wrath, and of the Revelation of the Just Judgment of God:</hi> Take heed of this, you that deny <hi>Revelati<g ref="char:EOLhyphen"/>on;</hi> you will find you will feel it in the End, if you Amend not, <hi>Rom.</hi> 2.</p>
+            <p>And therefore take heed of Diſobedience, and Rebelling againſt the Lord's Good Spi<g ref="char:EOLhyphen"/>rit, as in <hi>Neh.</hi> 9. For unto them which are Diſobedient, <hi>Chriſt is a Stone of Stumbling, and a Rock of Offence;</hi> and therefore, it is not the Profeſſing, but the Obedient and Belie<g ref="char:EOLhyphen"/>ving, to whom he is Elect and Precious.</p>
+            <p>
+               <hi>For behold, ſaith the Lord, the Day co<g ref="char:EOLhyphen"/>meth, that ſhall burn as an Oven; and all the Proud, yea, and all that do Wickedly, ſhall be as Stubble; and the Day that cometh ſhall burn them up, ſaith the Lord of Hoſts, and
+<pb n="17" facs="tcp:32554:9"/>ſhall leave them neither Root nor Branch,</hi> Ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 4. Therefore conſider all ye that are Proud, and do Wickedly; Do ye think this Day will not come upon you ere you be aware, and neither leave you Root nor Branch? What Good will all your Profeſſion do you, if ye do Wickedly and are Proud, when ye are found but as Chaff and Stubble conſum'd by Fire? Therefore take theſe things to Heart in your private Chambers, and ſee whether ye be not as Stubble or Chaff: <hi>But upon them that fear the Name of the Lord, ſhall the Son of Righteouſneſs ariſe, with Healing in his Wings; and they ſhall grow up as Calves in the Stall.</hi> And therefore, my Deſire is, That you may all Repent, and A<g ref="char:EOLhyphen"/>mend your Lives and Doings, and turn to the Lord, from all your Evil Wayes, Words, Lives and Converſations, and fear him, which to do, is to <hi>Depart from Evil,</hi> that the Wrath of God and the Lamb may not come upon you; for I deſire the Good of all your Souls, and the Eternal Welfare of all Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>And the Apoſtle ſaith in 1 <hi>Cor.</hi> 10. <hi>Nei<g ref="char:EOLhyphen"/>ther let us</hi> (to wit, the <hi>Chriſtians</hi>) <hi>commit Fornication, as ſome of them</hi> (to wit, the <hi>Jews</hi>) <hi>did, and fell in one day three and twen<g ref="char:EOLhyphen"/>ty Thouſand.</hi>
+            </p>
+            <pb n="18" facs="tcp:32554:10"/>
+            <p>
+               <hi>Neither be ye Idolaters</hi> (to wit, the <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi>) <hi>as ſome of them were</hi> (to wit, the <hi>Jews</hi>) <hi>as it is written, The People ſate down to Eat and Drink, and roſe up to play.</hi>
+            </p>
+            <p>Now, all theſe things came upon them (to wi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>Jews</hi>) for Example, and they were written to admoniſh us, that <hi>Chriſtians</hi> ſhould not follow them.</p>
+            <p>And the Prophet ſaith, <hi>Hab.</hi> 2.15. <hi>We unto him that giveth his Neighbour Drink, that putteſt thy Bottle to him, and makeſt him Drunk alſo, that thou mayſt look on his Na<g ref="char:EOLhyphen"/>kedneſs; thou art filled with Shame for Glory: Drink thou alſo, and let thy Nakedneſs be uncovered; the Cup of the Lord's Right Hand ſhall be turned unto thee.</hi> Now conſider this, ye that profeſs your ſelves <hi>Chriſtians,</hi> and live not the Life of <hi>Chriſtianity,</hi> whether ye be not found in theſe Practices that the Scriptures declare againſt.</p>
+            <p>Hagg. 1.6. <hi>Ye have ſown much, and bring in little, ye eat, but ye are not ſatisfied; ye drink, and are not filled; ye cloathe you, but you are not warm; and he that earneth Wages, putteth it into a broken Bag.</hi>
+            </p>
+            <p>Now, is not this the Condition of many called <hi>Chriſtians,</hi> that drink, and are never filled; and eat, and are not ſatisfied; and earn, but waſte their Wages?</p>
+            <pb n="19" facs="tcp:32554:10"/>
+            <p>And in <hi>Amos</hi> 3.15. and 4.1. <hi>I will ſmite, ſaith the Lord, the Winter-Houſe and the Summer-Houſe, and the Houſes of Ivory ſhall periſh, and the Great Houſes ſhall be con<g ref="char:EOLhyphen"/>ſumed, ſaith the Lord, Hear this Word, ye Kine of</hi> Baſhan, <hi>that are in the Mountains of</hi> Samaria, <hi>which Oppreſs the Poor and De<g ref="char:EOLhyphen"/>ſtroy the Needy; and they ſay u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to their Ma<g ref="char:EOLhyphen"/>ſters, Bring, and let us drink, &amp;c.</hi>
+            </p>
+            <p>Now, conſider this, ye that are found in ſuch Practices, and ſee what Judgment the Lord brought againſt ſuch.</p>
+            <p>And in <hi>Hoſea</hi> 4.18. there you may ſee how <hi>Ephraim</hi>'s <hi>Drunkenneſs</hi> ſtinked; <hi>Their Drunkenneſs ſtinketh</hi> (ſaith the Prophet) <hi>they have committed Whoredom.</hi>
+            </p>
+            <p>And does not the nominal <hi>Chriſtians</hi> Drunkenneſs ſtink, think ye, together with other their Uncleanneſs?</p>
+            <p>And in <hi>Prov.</hi> 20. its ſaid, <hi>Wine is a Moc<g ref="char:EOLhyphen"/>ker, and Strong Drink is Raging; and who<g ref="char:EOLhyphen"/>ſoever is deceived thereby is not wiſe.</hi>
+            </p>
+            <p>So mark, ye unwiſe <hi>Chriſtians,</hi> that are found in this Raging with this Strong Drink; and do ye think that ye are wiſe, that are deceived with Wine, the Mocker?</p>
+            <p>And in <hi>Prov.</hi> 4.14. to the 18th v. <hi>Enter not into the Way of the Wicked, and walk not in the Way of Evil Men, and avoid it, and
+<pb n="20" facs="tcp:32554:11"/>go not by it; but turn from it, and paſs by; for they cannot ſleep except they do Evil; and they cauſe ſome to fall; for they eat the Bread of Wickedneſs, and drink the Wine of Vio<g ref="char:EOLhyphen"/>lence.</hi> Were not theſe things judged by the Law of God? And are they not judged by the Goſpel? And don't you think that the Lord will make ſuch to drink the Wine of Giddineſs? as in <hi>Pſal</hi> 60.3. &amp;c.</p>
+            <p>And in <hi>Pſal.</hi> 80.5. <hi>Thou haſt fed them with the Bread of Tears, and gave them Tears to drink in a great Meaſure.</hi> And do ye think that ye <hi>Chriſtians,</hi> that feed your ſelves with<g ref="char:EOLhyphen"/>out the Fear of God, and conſume his good Creatures upon your Luſts, muſt not be fed with the Bread of Tears, and have Tears to drink from the Hand of the Lord.</p>
+            <p>And in <hi>Iſa.</hi> 56.12. <hi>Come ye, ſay they</hi> (to wit, the Shepherds or the Watch-men) <hi>I will f<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h Wine, and we will fill our ſelves with Strong Drink; and to morrow ſhall be as this day, and much more abundant.</hi> And were not theſe reproved by the Prophets? And are not ſuch reproved now by the Goſpel?</p>
+            <p>And in <hi>Iſa.</hi> 28.7, 8. <hi>For all their Tables are full of filthy Vomitings.</hi> Now look into your Houſes of Drunkenneſs, ye called <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> and ſee what Filthineſs is there; and by ſuch Doings ye Devour the Creation, and
+<pb n="21" facs="tcp:32554:11"/>cauſe the Drink of the Thirſty to fail, which would do them Good, which you deſtroy, and do your ſelves Hurt withal.</p>
+            <p>And the Prophet <hi>Iſaiah</hi> ſaith, <hi>But they have erred becauſe of Wine, and are out of the Way by Strong Drink: The Prieſts and the Prophets alſo have erred by Strong Drink; they are ſwallowed up with Wine, they are gone aſtray through Strong Drink; they fail in Viſion, they ſtumble in Judgment.</hi>
+            </p>
+            <p>Come, try your ſelves by theſe Scriptures, ye that call your ſelves <hi>Chriſtians,</hi> and ye Prieſts and Prophets; and ſee whether by Strong Drink ye have not ſtumbled in Judg<g ref="char:EOLhyphen"/>ment, and erred in Viſion, and are ſome of you ſwallowed up with Wine?</p>
+            <p>And does not the Prophet cry againſt the Pride and the Drunkenneſs of <hi>Ephraim?</hi> And do not many now, that are called <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> take a Pleaſure and Pride in making others Drunk? And were not ſuch threatned with judgments, and cryed againſt then? And are nor ſuch to be Warned now, as then?</p>
+            <p>And now take heed, leſt this come upon you, as is ſpoaken of in <hi>Iſaiah</hi> 24. <hi>The Earth ſhall be clean emptied, and utterly ſpoil<g ref="char:EOLhyphen"/>ed, the Lord hath spoaken it; becauſe the In<g ref="char:EOLhyphen"/>habitants of the Earth have tranſgreſſed his
+<pb n="22" facs="tcp:32554:12"/>Laws, and changed his Ordinances, and bro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> his Everlaſting Covenant; therefore the <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe devours the Earth, and the Habitations thereof: Then the Wine faileth, and all that were of a merry Heart do mourn; the Mirth of Tabrets ceaſeth; the Voice of them that Rejoyce endeth; the Joy of the Harp ceaſeth; the Earth lamenteth and fadeth away; the World is feeble and decayed; the Proud People of the Earth are weakened; they ſhall not drink Wine with Mirth; Strong Drink ſhall be bitter to them that drink it; the City of Va<g ref="char:EOLhyphen"/>nity is broken down; every Houſe is ſhut up, that no man cometh into it: There is a Cry for Wine in the Streets; all Joy is darkened; the Mirth of the World is gone away: Surely this ſhall be in the midſt of the Earth among the People as the ſhaking of an Olive-Tree, and as the Grapes when the Vintage is ended.</hi>
+            </p>
+            <p>Now, conſider theſe things, ye that pro<g ref="char:EOLhyphen"/>feſs your ſelves <hi>Chriſtians,</hi> and are the Tranſ<g ref="char:EOLhyphen"/>greſſors of the Goſpel, and the Commands and Law of Jeſus, as theſe <hi>Jews</hi> did, the Law of God and his Ordinances under the Old Covenant: Do ye think this Curſe and Judgments won<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t come upon you, that are found in theſe Practices?</p>
+            <p>And in <hi>Iſa.</hi> 5. <hi>VVo unto them that riſe up early to follow Drunkenneſs, and to them that
+<pb n="23" facs="tcp:32554:12"/>continue untill Night, till Wine doth inflame them; and the Harp, Vial, Timbrel and Pipe and VVine are in their Feaſts; but they re<g ref="char:EOLhyphen"/>gard not the VVork of the Lord, nor conſider they the VVorks of his Hands: Therefore</hi> (does not the Lord ſay) <hi>he will lay his Vine<g ref="char:EOLhyphen"/>yard waſte, and it ſhall bring forth Bryars and Thorns.</hi>
+            </p>
+            <p>And therefore take heed, ye <hi>Chriſtians,</hi> ſo called, that practiſe ſuch things, leſt your Vineyard be laid waſte alſo.</p>
+            <p>And <hi>VVo unto them</hi> (ſayes the Prophet) <hi>that are mighty to drink VVine, and to them that are ſtrong to pour in Strong Drink; which juſtifie the VVicked for a Reward, and take away the Righteouſneſs of the Righteous from him; and call Evil Good and Good Evil. Therefore as the Flaming Fire devours the Stubble, and as the Chaff is conſumed of the Flame, ſo their Root ſhall be as Rottenneſs, and their Bud ſhall riſe up like Duſt, becauſe they have caſt off the Law of the Lord of Hoſts, and contemned the Wine of the Holy One of</hi> Iſrael: <hi>Therefore is the VVrath of the Lord kindled againſt his People, and he hath ſtretch<g ref="char:EOLhyphen"/>ed out his Hand upon them, &amp;c.</hi>
+            </p>
+            <p>And now conſider ye this, that profeſs your ſelves <hi>Chriſtians,</hi> and are found in theſe Pra<g ref="char:EOLhyphen"/>ctices; Have not ye caſt away the Com<g ref="char:EOLhyphen"/>mand
+<pb n="24" facs="tcp:32554:13"/>and Law of Jeſus Chriſt, and con<g ref="char:EOLhyphen"/>temned his Inſtructions, who ſayes, <hi>Be ye Holy, as I am Holy;</hi> without which none ſhall ſee the Lord: And ye ought to walk as Chriſt walked: And won't he render Ven<g ref="char:EOLhyphen"/>geance in Flames of Fire againſt all ſuch as obey not the Goſpel, and walk not as be<g ref="char:EOLhyphen"/>comes the Goſpel?</p>
+            <p>And did not the Lord bring his Judgments upon the <hi>Jews</hi> for ſuch Actions? And do you think he will clear you of ſuch Acti<g ref="char:EOLhyphen"/>ons, becauſe ye make a Profeſſion of <hi>Chri<g ref="char:EOLhyphen"/>ſtianity</hi> and the Goſpel? Nay, nay; be not deceived: God's Wrath and Righteous Judgments will be revealed from Heaven a<g ref="char:EOLhyphen"/>gainſt all Ungodlineſs and Unrighteouſneſs of Men; and therefore Amend and Repent, leſt theſe Judgments come upon you at un<g ref="char:EOLhyphen"/>awares: When you and your Prieſts are crying, <hi>Peace, Peace,</hi> ſudden Deſtruction comes upon you, as it did upon <hi>Sodom</hi> and the Old World.</p>
+            <p>And you that be found out of the Power of Godlineſs, as the <hi>Jews</hi> were found out of the Law of God; do ye think that the Stone won't cry out of the Wall, and the Beam out of the Timber ſhall anſwer to it, a<g ref="char:EOLhyphen"/>gainſt you that delight in Sin and Wick<g ref="char:EOLhyphen"/>edneſs?</p>
+            <pb n="25" facs="tcp:32554:13"/>
+            <p>
+               <hi>This Viſion is plain, ſaith the Lord; he that runs may read it: and the Viſion is for an appointed time, but at the laſt it ſhall ſpeak,</hi> Hab. 2.</p>
+            <p>Therefore while ye have time Repent, and give over pleading for your Sin and Body of Death &amp; Wickedneſs to the Grave; for there is no Repentance there; and as the Tree falls, ſo it lies; Therefore ceaſe to ſin, and break off your Iniquities by Repentance. <hi>For the Grave cannot confeſs to the Lord, nor Death cannot praiſe him, and they that go down into the Pit cannot hope for the Truth; but the Living, the Living ſhall confeſs thee, as I do this day; the Father to the Children ſhall declare the Truth,</hi> thus ſaith <hi>Hezekiah, Iſa.</hi> 38.18, 19.</p>
+            <p>And you may ſee theſe Evil Works and Workers before mentioned, to wit, <hi>Drun<g ref="char:EOLhyphen"/>kenneſs, <g ref="char:V">Ʋ</g>ncleanneſs, &amp;c.</hi> are the Works of ſuch as go into Hell; for the Scripture ſaith, <hi>All that forget God, and do wickedly, ſhall be turned into Hell,</hi> as afore-ſaid; and ſo into that which burns with Fire and Brim<g ref="char:EOLhyphen"/>ſtone; and therefore ſaith the Prophet, <hi>Hell hath enlarged her ſelf, and opened her Mouth without Meaſure; and their Glory, and their Pomp, and he that rejoyceth among them ſhall
+<pb n="26" facs="tcp:32554:14"/>deſcend into it,</hi> Iſa. 5.14. Therefore con<g ref="char:EOLhyphen"/>ſider this, all ye Drunkards and Unclean Perſons, that feed your ſelves without Fear, and deſtroy &amp; devour the Creatures of God upon your Luſts, leſt Hell ſwallow you up, which has opened its Mouth without Mea<g ref="char:EOLhyphen"/>ſure; be ſur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it will, except you ſpeedily Repent and Amend your Lives and Doings, and turn unto the Lord. Though you may call <hi>Drunkenneſs</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ncleanneſs Good-Fel<g ref="char:EOLhyphen"/>lowſhip,</hi> and call others <hi>Fools</hi> that won't follow you into the ſame Exceſs of Riot, yet it is the <hi>bad Fellowſhip;</hi> for the <hi>Good Fel<g ref="char:EOLhyphen"/>lowſhip</hi> is in the <hi>Good Spirit</hi> of God, which mortifies theſe Evils and the Works of the Fleſh, which are manifeſt; as, <hi>Adultery, Fornication, <g ref="char:V">Ʋ</g>ncleanneſs, Wantonneſs, Envy, Murder, Drunkenneſs, Gluttony, &amp;c. whereof I tell you</hi> (ſays the Apoſtle) <hi>that they that do ſuch things ſhall not inherit the Kingdom of God.</hi> Gal. 5.</p>
+            <closer>
+               <dateline>
+                  <hi>Wor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſter</hi>-Priſon, <date>this 1ſt of the 11th Mo<g ref="char:EOLhyphen"/>neth, 1674.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:32554:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
